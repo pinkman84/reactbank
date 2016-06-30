@@ -1,0 +1,33 @@
+body {
+  background-color: azure;
+  font-family: 'Cinzel', serif 
+}
+
+#info{
+  visibility: hidden;
+}
+
+.personal{
+  float:left;
+  margin-left: 15%;
+  background-color: rgba(119,136,152,0.4);
+  padding:10px;
+  border: 2px solid slategrey;
+  border-radius: 25px;
+}
+
+.business{
+  float: right;
+  margin-right: 15%;
+  background-color: rgba(119,136,152,0.4);
+  padding:10px;
+  border: 2px solid slategrey;
+  border-radius: 10%;
+}
+
+button{
+  background-color: slategrey;
+  color: white;
+  padding: 5px;
+  border-radius: 10%;
+}
